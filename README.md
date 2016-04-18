@@ -1,5 +1,4 @@
 # jekyll01
-<<<<<<< HEAD
 
 > A test project with the Jekyllized Generator
 
@@ -40,6 +39,8 @@ on Github](https://github.com/sondr3/generator-jekyllized).
 ## Owner
 
 > [Michael Kaeser](michaelkaeser.github.io)
-=======
-A test project with the Jekyllized Generator
->>>>>>> ece04e85b42ab8fe016d97fe2df110884e7e6360
+
+## Links for further deploying
+https://github.com/X1011/git-directory-deploy
+http://yeoman.io/learning/deployment.html
+https://gist.github.com/cobyism/4730490
